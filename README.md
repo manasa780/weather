@@ -132,14 +132,6 @@ API_KEY = "your_api_key_here"
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-* Home Page
-* Weather Result Page
 
 ---
 
